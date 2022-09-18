@@ -1,4 +1,4 @@
-<?php require_once("handlepost.php"); ?>
+<?php require_once("header.php"); ?>
 <h1> My website</h1>
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
